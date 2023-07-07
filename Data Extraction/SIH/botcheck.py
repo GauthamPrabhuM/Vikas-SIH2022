@@ -1,10 +1,10 @@
 import botometer
 import json
 
-rapidapi_key = "RAPIDAPI_KEY" # now it's called rapidapi key
+rapidapi_key = "abc" # now it's called rapidapi key
 twitter_app_auth = {
-    'consumer_key': 'CONSUMER_KEY',
-    'consumer_secret': 'CONSUMER_SECRET'
+    'consumer_key': 'abc',
+    'consumer_secret': 'abc'
     }
 
 bom = botometer.Botometer(wait_on_ratelimit=True,
