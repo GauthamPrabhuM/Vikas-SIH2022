@@ -1,0 +1,9 @@
+/Users
+.DS_Store
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+node_modules/
+.env
+*.db
+.vscode/
